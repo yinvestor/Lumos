@@ -1,0 +1,34 @@
+# Django and DRF
+django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt
+
+# Environment & Config
+django-environ
+python-decouple  # optional
+
+# API Docs
+drf-spectacular
+
+# Auth & Security
+django-cors-headers
+argon2-cffi
+bcrypt
+
+# PostgreSQL
+psycopg2-binary
+
+# Email & Notifications
+django-anymail[sendgrid]
+phonenumbers
+django-templated-mail
+
+# Payments
+stripe
+
+# Utilities
+django-model-utils
+django-extensions
+
+# Production server
+gunicorn

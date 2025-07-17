@@ -1,0 +1,7 @@
+-r base.txt
+
+# Monitoring
+sentry-sdk
+
+# WSGI Server
+gunicorn  # included in base, repeat if needed

@@ -1,0 +1,15 @@
+-r base.txt
+
+# Dev-only tools
+django-debug-toolbar
+ipython
+ipdb
+
+# Testing & Fixtures
+pytest
+pytest-django
+factory_boy
+coverage
+
+# Task monitoring
+flower
