@@ -1,0 +1,5 @@
+# First unstage file in already staged for commits.
+
+Lumos/**/*/.env
+LumosStudioBackendEnv/
+__pycache__
